@@ -3,7 +3,7 @@
 Professional academic portfolio website for computational neuroscience and AI research.
 
 ## 🌐 Live Site
-[https://ShreyaKapoor18.github.io](https://ShreyaKapoor18.github.io)
+[https://ShreyaKapoor18.github.io](https://ShreyaKapoor18_academic.github.io)
 
 ## 📋 Features
 
